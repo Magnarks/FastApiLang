@@ -1,0 +1,5 @@
+fastapi
+py3langid
+python_weather
+pyjokes
+wikipedia

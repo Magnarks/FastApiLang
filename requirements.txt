@@ -1,4 +1,5 @@
 fastapi
+uvicorn
 py3langid
 python_weather
 pyjokes
